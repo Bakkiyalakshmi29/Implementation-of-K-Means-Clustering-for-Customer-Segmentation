@@ -16,6 +16,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 4.Re-center clusters and repeat until stable.
 
+
 ## Program:
 ```
 /*
