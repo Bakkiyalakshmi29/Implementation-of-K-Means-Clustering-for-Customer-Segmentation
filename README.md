@@ -73,13 +73,21 @@ plt.show
 
 ## Output:
 DATA:
+
 ![322957576-8971b362-90f4-4212-9bb7-bde7c21947fc](https://github.com/Bakkiyalakshmi29/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119406233/95e0f91e-2cd4-4f34-b944-14026e996a9b)
+
 ![322957664-41d64d86-fed3-466e-9711-59dc813e47cf](https://github.com/Bakkiyalakshmi29/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119406233/ab2e1df2-1c35-405f-a066-284fa7a8d60c)
+
 SCATTER PLOT:
+
 ![322957826-7439bbac-90f6-40a3-afce-0ed387b2a478](https://github.com/Bakkiyalakshmi29/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119406233/3523b85c-0a64-4daf-97ff-90d2619d1725)
+
 CENTROIDS:
+
 ![322957987-8968a68e-0e90-4758-a31b-e445705b17b1](https://github.com/Bakkiyalakshmi29/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119406233/370a653e-c215-4a24-9193-6d2c33060e93)
+
 KMeans Clustering:
+
 ![322958209-1416f4fd-38d2-411d-b1e8-fa191d8f1b1e](https://github.com/Bakkiyalakshmi29/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119406233/52dcf808-7e35-4a61-a5ce-6ed869b3c37f)
 
 
